@@ -28,19 +28,23 @@
 train, test split ratio: 0.85, 0.15
 model architecture: resnet-50
 - summary
+
 <img src="https://lh3.googleusercontent.com/v4HFcZaN9Z1dX5L4nDSoDC8FNl3iXYJU9kkLPF9GNs8htHgODKYQHM33l_FiG2ItuQRwG95fxueroLoMrE4cJx3wbOzZ1Z4XKXJTl-859YBWtNb6vkyNKuxHmZzSnqBSY7q2NRfw">
 - model detail
+
 <img src="https://lh6.googleusercontent.com/W3aCNZ-yMd632cuNJO3Cl28LFp0hnXrrukPSkS59piCSwzt9dTmhSOB5GUZlffl1DeR5Jbj0XcX1P50kTHlbB1mzWstj75_AZEjVawyLyM34mf2pIZmPKGzf6JX9qadWeXz3LMTM">
 - modeling time (loading + getting features + training): about 3h 30min
   \* it can vary on training iterations or other environmetal issues
 
 
 **Confusion Matrix in Test Data**
+
 <img src="https://lh4.googleusercontent.com/fdU3Gd5cup7WhJGJYRuXiH9m5IzFR-PX1E1MVBHzfVxkxli8WMdvDl7zlPe33Ykco-pbuFJvQVNzhZjUP17vr3ky3HowXs9FNrwM_YHMojbedKBtt8aZmQ4KPqtLJUWlLjqIJ9p7">
 <img src="https://lh6.googleusercontent.com/E1WlQQzlHwBYbTMuvaRN9JRRY7qGYCOunE48hkKD_k6jbXxMp6l7hcOrSvQHf-MjJ78JqAcoDoKC-x0A50iUSff2mAt-jRGkoz1IPQAKGbeansYuykWPXqJSavw70vhNsXUn73Wg">
 
 
 **Test on Google Images With Top-k Probabiltiy**
+
 <img src="https://lh6.googleusercontent.com/hyltOUX0CE8BBhlAqtbrsomvrLtg4CMXgGM8cJwmVOpB0E3yXEI0CAvH00Goknj1hfa-HBmpNq-r1tSiJg49cYL-xwTt3p8O9IzGpuG5CNGsMaTDNNxiQ-TRS59yRsM2odO7BZFd">
 <img src="https://lh3.googleusercontent.com/w6ZE1r5DmJBUtJgm7f5_J_me5FpEvL4dVPTgVJpSCDHiR4U22jXAAcnYddPB_S4Yaik_HNrSir3_t2gxQnKZR0JTheWSBpcXOrlAXq3RS4OlxUoJoV7sdmFO5aLD9kJacbPInNIL">
 <img src="https://lh4.googleusercontent.com/vk7vxgAQTerK52RylmYfpc_mkH-zqZUK-Ti0NNOie1xWm7IvrwXL5dMXYvD-tYJot7QpbkehgZjqG9fbZAQnHj1-E0MLPOad6mk8eNXRFFYY3mvNMpgk4fZmuXENJfIrfwjsxi5q">
