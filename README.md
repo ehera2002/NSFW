@@ -6,7 +6,7 @@
 <img src="https://github.com/infinitered/nsfwjs/raw/master/_art/nsfw_demo.gif">
 
 **5 classes images**
-- DraDrawing: 애니를 포함한 안전한 그림(safe for work drawings (including anime))
+- Drawing: 애니를 포함한 안전한 그림(safe for work drawings (including anime))
 - Hentai: 헨타이와 포르노 그림(hentai and pornographic drawings)
 - Neutral: 안전한 이미지(safe for work neutral images)
 - Porn: 포르노 이미지, 섹슈얼 행동(pornographic images, sexual acts)
