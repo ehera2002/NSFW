@@ -27,12 +27,15 @@
 
 train, test split ratio: 0.85, 0.15
 model architecture: resnet-50
+
 - summary
 
 <img src="https://lh3.googleusercontent.com/v4HFcZaN9Z1dX5L4nDSoDC8FNl3iXYJU9kkLPF9GNs8htHgODKYQHM33l_FiG2ItuQRwG95fxueroLoMrE4cJx3wbOzZ1Z4XKXJTl-859YBWtNb6vkyNKuxHmZzSnqBSY7q2NRfw">
+
 - model detail
 
 <img src="https://lh6.googleusercontent.com/W3aCNZ-yMd632cuNJO3Cl28LFp0hnXrrukPSkS59piCSwzt9dTmhSOB5GUZlffl1DeR5Jbj0XcX1P50kTHlbB1mzWstj75_AZEjVawyLyM34mf2pIZmPKGzf6JX9qadWeXz3LMTM">
+
 - modeling time (loading + getting features + training): about 3h 30min<br>
   \* it can vary on training iterations or other environmetal issues
 
