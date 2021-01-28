@@ -33,7 +33,7 @@ model architecture: resnet-50
 - model detail
 
 <img src="https://lh6.googleusercontent.com/W3aCNZ-yMd632cuNJO3Cl28LFp0hnXrrukPSkS59piCSwzt9dTmhSOB5GUZlffl1DeR5Jbj0XcX1P50kTHlbB1mzWstj75_AZEjVawyLyM34mf2pIZmPKGzf6JX9qadWeXz3LMTM">
-- modeling time (loading + getting features + training): about 3h 30min
+- modeling time (loading + getting features + training): about 3h 30min<br>
   \* it can vary on training iterations or other environmetal issues
 
 
