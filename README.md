@@ -22,6 +22,7 @@
 - Porn: 56968 (15G)
 - Sexy: 13883 (4.1G)
 
+----
 
 ### NSFW model
 
@@ -39,12 +40,14 @@ model architecture: resnet-50
 - modeling time (loading + getting features + training): about 3h 30min<br>
   \* it can vary on training iterations or other environmetal issues
 
+----
 
 ### Confusion Matrix in Test Data
 
 <img src="https://lh4.googleusercontent.com/fdU3Gd5cup7WhJGJYRuXiH9m5IzFR-PX1E1MVBHzfVxkxli8WMdvDl7zlPe33Ykco-pbuFJvQVNzhZjUP17vr3ky3HowXs9FNrwM_YHMojbedKBtt8aZmQ4KPqtLJUWlLjqIJ9p7">
 <img src="https://lh6.googleusercontent.com/E1WlQQzlHwBYbTMuvaRN9JRRY7qGYCOunE48hkKD_k6jbXxMp6l7hcOrSvQHf-MjJ78JqAcoDoKC-x0A50iUSff2mAt-jRGkoz1IPQAKGbeansYuykWPXqJSavw70vhNsXUn73Wg">
 
+----
 
 ### Test on Google Images With Top-k Probabiltiy
 
@@ -54,6 +57,8 @@ model architecture: resnet-50
 <img src="https://lh6.googleusercontent.com/HCI0KFKBRZnSTS_K8lmQ6eay_ohCmH9LKIUjoJPe47aexIg9LCm5cTxWMFZRlEg2-Gv8u71_PkZ9bDwW3LXb3FaR-VS1_yk13aVmNVhLb79Rq87qH1KuMfu_m5qltnXjelR5pA7E">
 <img src="https://lh4.googleusercontent.com/8ZP5Psl2PCkHW0q8UnqLSRwy5GOWyD2zDS1hWPy5EgePPFhihH0zFt3yb_pDd5F3iB38R7qGNkQ0CMlHV3tsx0iN7SjpFqhjr6pUZ_Bcbyket-UobKp9Kg9Jh86hkm9mfS0TS1tj">
 <img src="https://lh4.googleusercontent.com/8bFQamX5xzmmK9yoMkLRVm6JaIpsf8lb1iT70jWM1XlUhhRYZt4E-UntGi1_V07O_DQb6h1boZ6DGav8q3cMmi771vruwtg7WzHQeZQRSXsBSLV17preyGeKFgNKYY-1Gln6ocgt">
+
+----
 
 ### Additional Recommendation
 
