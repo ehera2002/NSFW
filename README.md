@@ -2,7 +2,7 @@
 
 [데이터 출처 github (including url text files)](https://github.com/alex000kim/nsfw_data_scraper) + [DOCS](https://syncedreview.com/2019/01/15/nsfw-dataset-removes-humans-from-content-review/)
 
-[NSFW JS Demo](https://github.com/infinitered/nsfwjs/tree/ebcd41c46087a3f42c6577f96acc53d7a934b068)
+[NSFW JS Demo](https://github.com/infinitered/nsfwjs/tree/ebcd41c46087a3f42c6577f96acc53d7a934b068)<br>
 <img src="https://github.com/infinitered/nsfwjs/raw/master/_art/nsfw_demo.gif">
 
 **5 classes images**
@@ -23,7 +23,7 @@
 - Sexy: 13883 (4.1G)
 
 
-**NSFW model**
+### NSFW model
 
 train, test split ratio: 0.85, 0.15
 model architecture: resnet-50
@@ -40,13 +40,13 @@ model architecture: resnet-50
   \* it can vary on training iterations or other environmetal issues
 
 
-**Confusion Matrix in Test Data**
+### Confusion Matrix in Test Data
 
 <img src="https://lh4.googleusercontent.com/fdU3Gd5cup7WhJGJYRuXiH9m5IzFR-PX1E1MVBHzfVxkxli8WMdvDl7zlPe33Ykco-pbuFJvQVNzhZjUP17vr3ky3HowXs9FNrwM_YHMojbedKBtt8aZmQ4KPqtLJUWlLjqIJ9p7">
 <img src="https://lh6.googleusercontent.com/E1WlQQzlHwBYbTMuvaRN9JRRY7qGYCOunE48hkKD_k6jbXxMp6l7hcOrSvQHf-MjJ78JqAcoDoKC-x0A50iUSff2mAt-jRGkoz1IPQAKGbeansYuykWPXqJSavw70vhNsXUn73Wg">
 
 
-**Test on Google Images With Top-k Probabiltiy**
+### Test on Google Images With Top-k Probabiltiy
 
 <img src="https://lh6.googleusercontent.com/hyltOUX0CE8BBhlAqtbrsomvrLtg4CMXgGM8cJwmVOpB0E3yXEI0CAvH00Goknj1hfa-HBmpNq-r1tSiJg49cYL-xwTt3p8O9IzGpuG5CNGsMaTDNNxiQ-TRS59yRsM2odO7BZFd">
 <img src="https://lh3.googleusercontent.com/w6ZE1r5DmJBUtJgm7f5_J_me5FpEvL4dVPTgVJpSCDHiR4U22jXAAcnYddPB_S4Yaik_HNrSir3_t2gxQnKZR0JTheWSBpcXOrlAXq3RS4OlxUoJoV7sdmFO5aLD9kJacbPInNIL">
@@ -55,7 +55,7 @@ model architecture: resnet-50
 <img src="https://lh4.googleusercontent.com/8ZP5Psl2PCkHW0q8UnqLSRwy5GOWyD2zDS1hWPy5EgePPFhihH0zFt3yb_pDd5F3iB38R7qGNkQ0CMlHV3tsx0iN7SjpFqhjr6pUZ_Bcbyket-UobKp9Kg9Jh86hkm9mfS0TS1tj">
 <img src="https://lh4.googleusercontent.com/8bFQamX5xzmmK9yoMkLRVm6JaIpsf8lb1iT70jWM1XlUhhRYZt4E-UntGi1_V07O_DQb6h1boZ6DGav8q3cMmi771vruwtg7WzHQeZQRSXsBSLV17preyGeKFgNKYY-1Gln6ocgt">
 
-**Additional Recommendation**
+### Additional Recommendation
 
 [HugHuge New NSFW Dataset](https://github.com/EBazarov/nsfw_data_source_urls) + [Docs](https://medium.com/syncedreview/huge-new-nsfw-dataset-for-content-filtering-c8e6a323d67c)
 - 위의 데이터에서 카테고리가 제대로 정의되어 있지 않은 것과 오분류되는 문제점을 보완하고자 프로젝트 진행
